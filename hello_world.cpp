@@ -3,7 +3,9 @@
 
 using namespace std;
 
-int main() {
+int
+main()
+{
   string name;
   cout << "Please, enter your name: ";
   cin >> name;
